@@ -12,7 +12,7 @@ This is a Streamlit-based web app for interactive stock price analysis and visua
 ## How to Run the App Locally
 1. Clone the repository: 
    ```bash
-   git clone https://github.com/ShreeRam2003/time-series-stock-analysis.git
+   git clone https://github.com/ShreeRam2003/time-series-stock-data-analysis.git
    ```
 2. Install dependencies: 
    ```bash
